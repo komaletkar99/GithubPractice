@@ -7,6 +7,12 @@ System.out.println(a+b
 
 public void add(){
 }
+
+public void mul(){
+}
+
+public void sub(){
+}
 }
 
 
