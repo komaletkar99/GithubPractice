@@ -13,6 +13,9 @@ public void mul(){
 
 public void sub(){
 }
+
+public void mul(){
+}
 }
 
 
